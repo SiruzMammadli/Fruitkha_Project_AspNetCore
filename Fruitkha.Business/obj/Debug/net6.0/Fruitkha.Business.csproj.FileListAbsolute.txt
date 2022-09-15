@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\MyFruitkhaProject\Fruitkha.Business\bin\Debug\net6.0\Fruitkha.Business.deps.json
+C:\Users\User\source\repos\MyFruitkhaProject\Fruitkha.Business\bin\Debug\net6.0\Fruitkha.Business.runtimeconfig.json
+C:\Users\User\source\repos\MyFruitkhaProject\Fruitkha.Business\bin\Debug\net6.0\Fruitkha.Business.dll
+C:\Users\User\source\repos\MyFruitkhaProject\Fruitkha.Business\bin\Debug\net6.0\Fruitkha.Business.pdb
+C:\Users\User\source\repos\MyFruitkhaProject\Fruitkha.Business\bin\Debug\net6.0\Fruitkha.DataAccess.dll
+C:\Users\User\source\repos\MyFruitkhaProject\Fruitkha.Business\bin\Debug\net6.0\Fruitkha.DataAccess.pdb
+C:\Users\User\source\repos\MyFruitkhaProject\Fruitkha.Business\obj\Debug\net6.0\Fruitkha.Business.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MyFruitkhaProject\Fruitkha.Business\obj\Debug\net6.0\Fruitkha.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MyFruitkhaProject\Fruitkha.Business\obj\Debug\net6.0\Fruitkha.Business.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MyFruitkhaProject\Fruitkha.Business\obj\Debug\net6.0\Fruitkha.Business.AssemblyInfo.cs
+C:\Users\User\source\repos\MyFruitkhaProject\Fruitkha.Business\obj\Debug\net6.0\Fruitkha.Business.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MyFruitkhaProject\Fruitkha.Business\obj\Debug\net6.0\Fruitkha.Business.csproj.CopyComplete
+C:\Users\User\source\repos\MyFruitkhaProject\Fruitkha.Business\obj\Debug\net6.0\Fruitkha.Business.dll
+C:\Users\User\source\repos\MyFruitkhaProject\Fruitkha.Business\obj\Debug\net6.0\refint\Fruitkha.Business.dll
+C:\Users\User\source\repos\MyFruitkhaProject\Fruitkha.Business\obj\Debug\net6.0\Fruitkha.Business.pdb
+C:\Users\User\source\repos\MyFruitkhaProject\Fruitkha.Business\obj\Debug\net6.0\Fruitkha.Business.genruntimeconfig.cache
+C:\Users\User\source\repos\MyFruitkhaProject\Fruitkha.Business\obj\Debug\net6.0\ref\Fruitkha.Business.dll

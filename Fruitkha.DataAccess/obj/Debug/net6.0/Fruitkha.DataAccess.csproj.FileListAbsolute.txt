@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\MyFruitkhaProject\Fruitkha.DataAccess\bin\Debug\net6.0\Fruitkha.DataAccess.deps.json
+C:\Users\User\source\repos\MyFruitkhaProject\Fruitkha.DataAccess\bin\Debug\net6.0\Fruitkha.DataAccess.runtimeconfig.json
+C:\Users\User\source\repos\MyFruitkhaProject\Fruitkha.DataAccess\bin\Debug\net6.0\Fruitkha.DataAccess.dll
+C:\Users\User\source\repos\MyFruitkhaProject\Fruitkha.DataAccess\bin\Debug\net6.0\Fruitkha.DataAccess.pdb
+C:\Users\User\source\repos\MyFruitkhaProject\Fruitkha.DataAccess\obj\Debug\net6.0\Fruitkha.DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MyFruitkhaProject\Fruitkha.DataAccess\obj\Debug\net6.0\Fruitkha.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MyFruitkhaProject\Fruitkha.DataAccess\obj\Debug\net6.0\Fruitkha.DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MyFruitkhaProject\Fruitkha.DataAccess\obj\Debug\net6.0\Fruitkha.DataAccess.AssemblyInfo.cs
+C:\Users\User\source\repos\MyFruitkhaProject\Fruitkha.DataAccess\obj\Debug\net6.0\Fruitkha.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MyFruitkhaProject\Fruitkha.DataAccess\obj\Debug\net6.0\Fruitkha.DataAccess.dll
+C:\Users\User\source\repos\MyFruitkhaProject\Fruitkha.DataAccess\obj\Debug\net6.0\refint\Fruitkha.DataAccess.dll
+C:\Users\User\source\repos\MyFruitkhaProject\Fruitkha.DataAccess\obj\Debug\net6.0\Fruitkha.DataAccess.pdb
+C:\Users\User\source\repos\MyFruitkhaProject\Fruitkha.DataAccess\obj\Debug\net6.0\Fruitkha.DataAccess.genruntimeconfig.cache
+C:\Users\User\source\repos\MyFruitkhaProject\Fruitkha.DataAccess\obj\Debug\net6.0\ref\Fruitkha.DataAccess.dll

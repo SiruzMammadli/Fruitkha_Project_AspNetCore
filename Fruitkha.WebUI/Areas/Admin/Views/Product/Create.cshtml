@@ -1,0 +1,23 @@
+﻿@model Product
+
+<form method="post" enctype="multipart/form-data" class="col-6 my-3">
+    <input class="form-control mb-2" type="text" name="Name" placeholder="Product name..." />
+    <input class="form-control mb-2" type="text" name="Description" placeholder="Description..." />
+    <input class="form-control mb-2" type="number" name="Price" placeholder="Price..." />
+    <input class="form-control mb-2" type="number" name="Discount" placeholder="Discount..." />
+    <input class="form-control mb-2" type="number" name="Quantity" placeholder="Quantity..." />
+    <input class="form-control mb-2" type="file" name="ImageUrl" />
+    <span>
+        <label style="user-select: none">
+            Is Stock?
+            @Html.CheckBox("IsStock", false)
+        </label>
+    </span>
+    <select name="categoryId" class="form-control my-4">
+        @foreach (var category in ViewData["Categories"] as IEnumerable<Category>)
+        {
+            <option value="@category.Id">@category.Name</option>
+        }
+    </select>
+    <input class="btn btn-outline-success btn-sm" type="submit" value="Create" />
+</form>
